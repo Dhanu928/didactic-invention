@@ -25,7 +25,7 @@ Recommendations
 
 
 Project Files
-- ![Screenshot 2025-06-25 131340](https://github.com/user-attachments/assets/9dc9552e-9414-4033-b607-03e2918b80a0) : Excel dashboards
+![Screenshot 2025-06-25 144558](https://github.com/user-attachments/assets/de5d2c28-3e41-4a6f-81f8-403e55cd6a69) : Excel dashboards
 
 
 ## 📸 Sample Visual
